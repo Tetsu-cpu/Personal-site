@@ -6,7 +6,7 @@ h1 {text-align: center;}
             background-color: rgb(0, 0, 0);
         }
 .about-img{text-align: center;
-           background: #989797;
+           background: #827070;
            border: 4px outset black
 
 }       
@@ -19,4 +19,15 @@ h1 {text-align: center;}
                   border: 2px outset black
 }
 
+.contact-content{
+                 text-align: center;
+                 background-color:azure;
+                 height: auto;
+                 width: auto;
+                 border: 5px outset black
+   
+}
 
+.completion{
+           text-align: right;
+}
