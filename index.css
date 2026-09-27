@@ -31,3 +31,10 @@ h1 {text-align: center;}
 .completion{
            text-align: right;
 }
+
+.activities-content{
+    text-align:left;
+                  height: fit-content;
+                  width:fit-content;
+                  border: 2px outset black
+}
